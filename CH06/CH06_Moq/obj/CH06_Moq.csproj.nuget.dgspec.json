@@ -1,26 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj": {}
+    "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj": {}
   },
   "projects": {
-    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj": {
+    "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
+        "projectUniqueName": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
         "projectName": "CH06_Moq",
-        "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
-        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_Moq\\obj\\",
+        "projectPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_Moq\\CH06_Moq.csproj",
+        "packagesPath": "C:\\Users\\h4N7\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_Moq\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\h4N7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net48"
@@ -57,6 +57,9 @@
       },
       "runtimes": {
         "win": {
+          "#import": []
+        },
+        "win-arm64": {
           "#import": []
         },
         "win-x64": {

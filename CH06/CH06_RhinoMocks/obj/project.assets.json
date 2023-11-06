@@ -5,10 +5,14 @@
       "RhinoMocks/3.6.1": {
         "type": "package",
         "compile": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
@@ -16,10 +20,29 @@
       "RhinoMocks/3.6.1": {
         "type": "package",
         "compile": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
+        }
+      }
+    },
+    ".NETFramework,Version=v4.8/win-arm64": {
+      "RhinoMocks/3.6.1": {
+        "type": "package",
+        "compile": {
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
@@ -27,10 +50,14 @@
       "RhinoMocks/3.6.1": {
         "type": "package",
         "compile": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         }
       }
     },
@@ -38,10 +65,14 @@
       "RhinoMocks/3.6.1": {
         "type": "package",
         "compile": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         },
         "runtime": {
-          "lib/net/Rhino.Mocks.dll": {}
+          "lib/net/Rhino.Mocks.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
@@ -67,26 +98,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jason\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\h4N7\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj",
+      "projectUniqueName": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj",
       "projectName": "CH06_RhinoMocks",
-      "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj",
-      "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-      "outputPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\obj\\",
+      "projectPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\CH06_RhinoMocks.csproj",
+      "packagesPath": "C:\\Users\\h4N7\\.nuget\\packages\\",
+      "outputPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_RhinoMocks\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\h4N7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net48"
@@ -113,6 +144,9 @@
     },
     "runtimes": {
       "win": {
+        "#import": []
+      },
+      "win-arm64": {
         "#import": []
       },
       "win-x64": {

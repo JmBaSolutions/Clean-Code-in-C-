@@ -1,36 +1,41 @@
 {
   "format": 1,
   "restore": {
-    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj": {}
+    "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj": {}
   },
   "projects": {
-    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj": {
+    "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj": {
       "restore": {
-        "projectUniqueName": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj",
+        "projectUniqueName": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj",
         "projectName": "CH06_SpecFlow.Implementation",
-        "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj"
+        "projectPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj",
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net48": {}
       }
     },
-    "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj": {
+    "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj",
+        "projectUniqueName": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj",
         "projectName": "CH06_SpecFlow",
-        "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj",
-        "packagesPath": "C:\\Users\\jason\\.nuget\\packages\\",
-        "outputPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\obj\\",
+        "projectPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\CH06_SpecFlow.csproj",
+        "packagesPath": "C:\\Users\\h4N7\\.nuget\\packages\\",
+        "outputPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\jason\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\h4N7\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net48"
@@ -42,8 +47,8 @@
         "frameworks": {
           "net48": {
             "projectReferences": {
-              "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj": {
-                "projectPath": "D:\\_Book\\Source Code\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj"
+              "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj": {
+                "projectPath": "D:\\dev\\Clean-Code-in-C-\\CH06\\CH06_SpecFlow.Implementation\\CH06_SpecFlow.Implementation.csproj"
               }
             }
           }
@@ -79,6 +84,9 @@
       },
       "runtimes": {
         "win": {
+          "#import": []
+        },
+        "win-arm64": {
           "#import": []
         },
         "win-x64": {
